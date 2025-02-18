@@ -3,8 +3,10 @@
 ## **Project Objective**  
 Analyze key metrics related to sales, customer behavior, logistics efficiency, and payment trends in the Brazilian e-commerce market. The objective is to identify actionable insights that can optimize operations, increase revenue, and enhance customer satisfaction.  
 
+## 🔗 **Download Power BI Dashboard**: [Click here](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+
 ## **Dataset Used**  
-- [Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) (Kaggle)  
+- [Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) (Kaggle)
 
 ## **Questions (KPIs)**  
 
