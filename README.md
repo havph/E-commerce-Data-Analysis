@@ -51,6 +51,10 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ## **Dashboard Insights & Actions**  
 
 ### **1. Business Overview**  
+![Business Overview](images/business overview.jpg)
+![Business Overview](images/business overview (2).jpg)
+
+
 #### **Analysis**  
 - Sales and order volumes showed consistent growth until 2018, followed by a decline.  
 - Bahia state contributed the highest revenue.  
@@ -63,6 +67,8 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ---
 
 ### **2. Customer Overview**  
+![Business Overview](images/customer reviews.jpg)
+
 #### **Analysis**  
 - Customers are concentrated in **large cities**.  
 - Preferred product price range: **100-500 BRL**.  
@@ -85,6 +91,8 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ---
 
 ### **4. Logistics Analysis**  
+![Business Overview](images/logistics analysis.jpg)
+
 #### **Analysis**  
 - **Average delivery time**: 9.29 days, with **8.11% late deliveries**.  
 - **Peak seasons lead to higher delays** due to volume surges.  
@@ -96,6 +104,7 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ---
 
 ### **5. Payment Analysis**  
+![Business Overview](images/payment analysis.jpg)
 #### **Analysis**  
 - **73.92% of transactions use credit cards**, but **71% of credit card transactions have high cancellation risks**.  
 - Alternative payment methods (boleto, debit) have lower cancellation rates.  
