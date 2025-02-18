@@ -51,7 +51,8 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ## **Dashboard Insights & Actions**  
 
 ### **1. Business Overview**  
-![Business Overview](images/business overview.jpg)
+![Business Overview](images/business_overview.jpg)
+
 ![Business Overview](images/business overview (2).jpg)
 
 
