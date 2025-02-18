@@ -1,128 +1,131 @@
 # **Brazilian E-Commerce Sales Analysis (Power BI Dashboard)**  
 
-## **Project Objective**  
-Analyze key metrics related to sales, customer behavior, logistics efficiency, and payment trends in the Brazilian e-commerce market. The objective is to identify actionable insights that can optimize operations, increase revenue, and enhance customer satisfaction.  
+## **Project Overview**  
+This Power BI dashboard analyzes key aspects of the **Brazilian e-commerce market**, focusing on **sales performance, customer behavior, logistics efficiency, and payment trends**. The goal is to uncover actionable insights to **optimize operations, increase revenue, and enhance customer satisfaction**.  
 
-## **Download Power BI Dashboard**: [Click here](https://drive.google.com/drive/folders/1bxUdkodFfvGo4kZSSvtuc7zs2gwW-Ech?usp=drive_link)
+📥 **Download Dashboard**: [Click here](https://drive.google.com/drive/folders/1bxUdkodFfvGo4kZSSvtuc7zs2gwW-Ech?usp=drive_link)  
 
-## **Dataset Used**  
-- [Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) (Kaggle)
+📊 **Dataset Used**: [Brazilian E-Commerce Dataset (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)  
 
-## **Questions (KPIs)**  
+---
 
-### **Sales Performance & Customer Insights**  
+## **Key Business Questions**  
+
+### **1. Sales Performance & Customer Behavior**  
 - How do total sales and order volumes trend over time?  
-- Which months and states contribute the most revenue?  
-- What are the best-selling product categories?  
-- How do customer demographics (location, spending habits) impact purchasing behavior?  
+- Which months, states, and product categories generate the most revenue?  
+- How do customer demographics (location, spending habits) affect purchasing behavior?  
 
-### **Customer Reviews & Satisfaction**  
+### **2. Customer Satisfaction & Reviews**  
 - What factors influence customer satisfaction?  
 - How do reviews vary by location, payment method, and delivery experience?  
 
-### **Logistics & Delivery Efficiency**  
+### **3. Logistics & Delivery Performance**  
 - What is the average delivery time, and how does it vary by region?  
 - Which product categories experience the most delays?  
 - How does delivery time impact customer satisfaction?  
 
-### **Payment Behavior & Risks**  
-- What are the most used payment methods?  
+### **4. Payment Trends & Risks**  
+- What are the most popular payment methods?  
 - How do payment methods impact transaction value and cancellation rates?  
 - What strategies can reduce high-risk payment cancellations?  
 
 ---
 
-## **Process**  
+## **Project Workflow**  
 
-### **Data Cleaning & Preparation**  
-- Verified and standardized dataset formats (dates, currency, categorical values).  
-- Removed incomplete transactions and filtered relevant data.  
+### **1. Data Preparation & Cleaning**  
+- Standardized data formats (dates, currency, categorical values).  
+- Removed incomplete transactions and irrelevant records.  
 
-### **Data Transformation & Analysis**  
-- Established relationships between key datasets (customers, orders, products, logistics).  
-- Created calculated measures and KPIs using DAX in Power BI.  
-- Applied advanced analytics to extract insights into trends, risks, and optimization opportunities.  
+### **2. Data Transformation & Analysis**  
+- Established relationships between customers, orders, products, and logistics data.  
+- Created calculated measures and KPIs using **DAX in Power BI**.  
+- Applied analytics to identify trends, risks, and business opportunities.  
 
-### **Dashboard Development**  
-- Designed interactive visuals with slicers for real-time filtering.  
-- Integrated KPIs into executive-level summaries for decision-making.  
-- Applied geospatial analysis for regional insights.  
-
----
-
-## **Dashboard Insights & Actions**  
-
-### **1. Business Overview**  
-![Business Overview](images/business_overview.jpg)
-
-![Business Overview](images/business_overview_(2).jpg)
-
-
-#### **Analysis**  
-- Sales and order volumes showed consistent growth until 2018, followed by a decline.  
-- Bahia state contributed the highest revenue.  
-- Best-selling categories: **Home decor, cosmetics, sports, and electronics**.  
-
-#### **Actions**  
-- Launch **targeted promotions and free shipping** to regain momentum in key states.  
-- Investigate **2018 sales decline** and implement corrective measures.  
+### **3. Dashboard Development**  
+- Designed **interactive visuals** with slicers for dynamic filtering.  
+- Built **executive-level summaries** for strategic decision-making.  
+- Implemented **geospatial analysis** for location-based insights.  
 
 ---
 
-### **2. Customer Overview**  
-![Business Overview](images/customer_reviews.jpg)
+## **Key Findings & Business Recommendations**  
 
-#### **Analysis**  
-- Customers are concentrated in **large cities**.  
-- Preferred product price range: **100-500 BRL**.  
+### **1. Sales Overview**  
+📊 ![Sales Performance](image/business_overview1.png)  
+ ![Sales Performance](image/business_overview2.png)  
 
-#### **Actions**  
-- Expand in **urban markets** by promoting **affordable, high-quality products**.  
-- Enhance **fast shipping and exclusive discounts** for customer retention.  
+#### 🔍 **Insights**  
+- Sales and order volumes grew steadily until **2018**, then declined.  
+- **Bahia** state contributed the highest revenue.  
+- **Top-selling categories**: Home decor, cosmetics, sports, and electronics.  
+
+#### ✅ **Recommendations**  
+✔️ Launch **targeted promotions & free shipping** in top-performing states.  
+✔️ Investigate **2018 sales decline** and adjust marketing strategies.  
+
+---
+
+### **2. Customer Insights**  
+📊 ![Customer Overview](image/customer_review.png)  
+
+#### 🔍 **Insights**  
+- Customers are **mostly located in major cities**.  
+- Preferred spending range: **100-500 BRL**.  
+
+#### ✅ **Recommendations**  
+✔️ Expand in **urban markets** with affordable, high-quality products.  
+✔️ Offer **fast shipping & exclusive discounts** to improve retention.  
 
 ---
 
 ### **3. Customer Satisfaction**  
-#### **Analysis**  
-- Payment issues and delivery delays negatively affect ratings.  
-- Lower satisfaction in **remote areas** due to logistics constraints.  
 
-#### **Actions**  
-- Improve **payment processing reliability**.  
-- Develop **regional logistics strategies** for better delivery performance.  
+#### 🔍 **Insights**  
+- **Payment issues & delivery delays** lower customer ratings.  
+- Remote areas have lower satisfaction due to logistics constraints.  
+
+#### ✅ **Recommendations**  
+✔️ Improve **payment processing reliability**.  
+✔️ Optimize **regional logistics** for better delivery performance.  
 
 ---
 
-### **4. Logistics Analysis**  
-![Business Overview](images/logistics_analysis.jpg)
+### **4. Logistics & Delivery Performance**  
+📊 ![Logistics Analysis](image/logistics_analysis.png)  
 
-#### **Analysis**  
-- **Average delivery time**: 9.29 days, with **8.11% late deliveries**.  
-- **Peak seasons lead to higher delays** due to volume surges.  
+#### 🔍 **Insights**  
+- **Average delivery time**: **9.29 days**, with **8.11% late deliveries**.  
+- **Peak seasons** see higher delays due to increased volume.  
 
-#### **Actions**  
-- **Expand storage facilities** in suburban areas.  
-- Strengthen logistics capabilities **during peak seasons**.  
+#### ✅ **Recommendations**  
+✔️ Expand **storage & fulfillment centers** in suburban areas.  
+✔️ Strengthen **logistics network** for peak seasons.  
 
 ---
 
 ### **5. Payment Analysis**  
-![Business Overview](images/payment_analysis.jpg)
-#### **Analysis**  
-- **73.92% of transactions use credit cards**, but **71% of credit card transactions have high cancellation risks**.  
-- Alternative payment methods (boleto, debit) have lower cancellation rates.  
+📊 ![Payment Analysis](image/payment_analysis.png)  
 
-#### **Actions**  
-- **Reduce reliance on credit cards** by incentivizing alternative payments.  
-- Implement **fraud detection and cancellation prevention measures**.  
+#### 🔍 **Insights**  
+- **73.92% of transactions** use credit cards, but **71% of those have high cancellation risks**.  
+- **Boleto & debit** transactions have lower cancellation rates.  
+
+#### ✅ **Recommendations**  
+✔️ Incentivize **alternative payment methods** to reduce credit card dependency.  
+✔️ Implement **fraud detection & cancellation prevention strategies**.  
 
 ---
 
-## **Final Conclusion**  
-To optimize operations and drive sustainable growth, the focus should be on:  
-1. **Boosting sales through targeted promotions** in key markets.  
-2. **Enhancing logistics efficiency** by expanding fulfillment capabilities.  
-3. **Improving payment security and diversification** to reduce risk.  
-4. **Addressing customer pain points** to increase retention and satisfaction.  
+## **Final Conclusion & Next Steps**  
+To **optimize e-commerce operations & boost revenue**, the business should focus on:  
+**Targeted sales strategies** to increase revenue in key states.  
+**Enhancing logistics efficiency** to reduce delivery delays.  
+**Improving payment security & diversification** to lower risk.  
+**Addressing customer pain points** to improve satisfaction & retention.  
 
-This Power BI dashboard provides a structured framework for data-driven decision-making, enabling management to refine strategies for increased efficiency and profitability.
+This Power BI dashboard enables **data-driven decision-making**, helping businesses refine strategies for efficiency, profitability, and customer satisfaction.   
+
+---
+
