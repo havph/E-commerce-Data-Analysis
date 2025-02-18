@@ -53,7 +53,7 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ### **1. Business Overview**  
 ![Business Overview](images/business_overview.jpg)
 
-![Business Overview](images/business overview (2).jpg)
+![Business Overview](images/business_overview_(2).jpg)
 
 
 #### **Analysis**  
@@ -68,7 +68,7 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ---
 
 ### **2. Customer Overview**  
-![Business Overview](images/customer reviews.jpg)
+![Business Overview](images/customer_reviews.jpg)
 
 #### **Analysis**  
 - Customers are concentrated in **large cities**.  
@@ -92,7 +92,7 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ---
 
 ### **4. Logistics Analysis**  
-![Business Overview](images/logistics analysis.jpg)
+![Business Overview](images/logistics_analysis.jpg)
 
 #### **Analysis**  
 - **Average delivery time**: 9.29 days, with **8.11% late deliveries**.  
@@ -105,7 +105,7 @@ Analyze key metrics related to sales, customer behavior, logistics efficiency, a
 ---
 
 ### **5. Payment Analysis**  
-![Business Overview](images/payment analysis.jpg)
+![Business Overview](images/payment_analysis.jpg)
 #### **Analysis**  
 - **73.92% of transactions use credit cards**, but **71% of credit card transactions have high cancellation risks**.  
 - Alternative payment methods (boleto, debit) have lower cancellation rates.  
